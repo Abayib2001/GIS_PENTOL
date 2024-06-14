@@ -63,7 +63,14 @@ flutter:
 
   assets:
     - assets/images/logo.png
-    - assets/images/lokasi.png
+    - assets/images/lokasi_pentol.png
+    - assets/images/pentol.png
+    - assets/images/pentol_add.png
+    - assets/images/pentol_bintang.png
+    - assets/images/arah.png
+
+
+
     - assets/icons/
 
   # To add assets to your application, add an assets section, like this:
